@@ -10,6 +10,6 @@
         Console.WriteLine("I won't cry for you");
         Console.WriteLine("I won't crucify the things you do");
 
-        Console.WriteLine($"The sum of {numero1} and {numero2} is {soma}");
+        Console.WriteLine($"A soma de {numero1} com {numero2} dá {soma}");
     }
 }
